@@ -1,0 +1,32 @@
+[
+{
+  "问题": "用户：买3D单式通选 号码 11、 62  ，03",
+  "标准答案": [
+    {
+      "IsValid": true,
+      "GameType": "3D",
+      "PlayType": "单式",
+      "PlayMethod": "通选",
+      "Number": [
+        { "FirstArea": "11,62,03" }
+      ],
+      "bet": "1"
+    }
+  ]
+},
+  {
+  "问题": "用户：3D怎么玩？\n客服：需要我介绍一下吗？\n用户：不用了，我直接买3D单式猜大小，号码 21,43,65",
+  "标准答案": [
+    {
+      "IsValid": true,
+      "GameType": "3D",
+      "PlayType": "单式",
+      "PlayMethod": "猜大小",
+      "Number": [
+        { "FirstArea": "21,43,65" }
+      ],
+      "bet": "1"
+    }
+  ]
+}
+]
